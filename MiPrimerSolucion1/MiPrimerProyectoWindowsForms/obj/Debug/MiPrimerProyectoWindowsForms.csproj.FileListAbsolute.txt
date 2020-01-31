@@ -1,0 +1,9 @@
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe.config
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.pdb
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csprojResolveAssemblyReference.cache
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Form1.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Properties.Resources.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csproj.GenerateResource.Cache
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.pdb
