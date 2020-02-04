@@ -1,6 +1,0 @@
-c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoConsola1\bin\Debug\MiPrimerProyectoConsola1.exe.config
-c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoConsola1\bin\Debug\MiPrimerProyectoConsola1.exe
-c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoConsola1\bin\Debug\MiPrimerProyectoConsola1.pdb
-c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoConsola1\obj\Debug\MiPrimerProyectoConsola1.csprojResolveAssemblyReference.cache
-c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoConsola1\obj\Debug\MiPrimerProyectoConsola1.exe
-c:\users\geralss4\documents\visual studio 2015\Projects\MiPrimerProyectoWindowsForms\MiPrimerProyectoConsola1\obj\Debug\MiPrimerProyectoConsola1.pdb
