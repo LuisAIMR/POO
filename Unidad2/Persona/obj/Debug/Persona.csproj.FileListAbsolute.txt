@@ -1,0 +1,9 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\bin\Debug\Persona.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\bin\Debug\Persona.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\bin\Debug\Persona.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\obj\Debug\Persona.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\obj\Debug\Persona.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\obj\Debug\Persona.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\obj\Debug\Persona.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\obj\Debug\Persona.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Persona\obj\Debug\Persona.pdb
