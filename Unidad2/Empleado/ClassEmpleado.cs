@@ -28,11 +28,20 @@ namespace Empleado
                 diasVacasiones = 10+((aniosTrabajados-10)*1);
 
             }
-            else if (aniosTrabajados>=20)
+            else if (aniosTrabajados==20)
             {
-                diasVacasiones = 10+((aniosTrabajados-20)*2);
+                diasVacasiones = diasVacasiones + 20;
 
-                if (diasVacasiones>45)
+                if (diasVacasiones > 45)
+                {
+                    diasVacasiones = 45;
+                }
+            }
+            else if(aniosTrabajados>20)
+            {
+                diasVacasiones = 20 + ( (aniosTrabajados - 20)*2);
+
+                if (diasVacasiones > 45)
                 {
                     diasVacasiones = 45;
                 }

@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace Persona
 {
-    public partial class Form1 : Form
+    public partial class frmPersona : Form
     {
         ClassPersona objPersona = new ClassPersona();
-        public Form1()
+        public frmPersona()
         {
             InitializeComponent();
         }
@@ -40,11 +40,6 @@ namespace Persona
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
         {
 
-        }
-
-        private void btnNuevo_Click(object sender, EventArgs e)
-        {
-            lblMayorEdad.Text = "";
         }
 
         private void Form1_Load(object sender, EventArgs e)

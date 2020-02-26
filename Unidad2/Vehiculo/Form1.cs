@@ -58,5 +58,10 @@ namespace Vehiculo
         {
 
         }
+
+        private void frmVehiculo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

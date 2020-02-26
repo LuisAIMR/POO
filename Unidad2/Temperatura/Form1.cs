@@ -76,5 +76,10 @@ namespace Temperatura
         {
            
         }
+
+        private void frmTemperatura_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

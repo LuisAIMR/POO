@@ -1,6 +1,6 @@
 ﻿namespace Persona
 {
-    partial class Form1
+    partial class frmPersona
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -31,7 +31,6 @@
             this.lbl = new System.Windows.Forms.Label();
             this.dtpFechaNac = new System.Windows.Forms.DateTimePicker();
             this.btnEvaluarEdad = new System.Windows.Forms.Button();
-            this.btnNuevo = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.lblMayorEdad = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -63,16 +62,6 @@
             this.btnEvaluarEdad.UseVisualStyleBackColor = true;
             this.btnEvaluarEdad.Click += new System.EventHandler(this.btnEvaluarEdad_Click);
             // 
-            // btnNuevo
-            // 
-            this.btnNuevo.Location = new System.Drawing.Point(12, 226);
-            this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(75, 23);
-            this.btnNuevo.TabIndex = 3;
-            this.btnNuevo.Text = "Nuevo";
-            this.btnNuevo.UseVisualStyleBackColor = true;
-            this.btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click);
-            // 
             // btnSalir
             // 
             this.btnSalir.Location = new System.Drawing.Point(197, 226);
@@ -91,19 +80,18 @@
             this.lblMayorEdad.Size = new System.Drawing.Size(0, 13);
             this.lblMayorEdad.TabIndex = 5;
             // 
-            // Form1
+            // frmPersona
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.lblMayorEdad);
             this.Controls.Add(this.btnSalir);
-            this.Controls.Add(this.btnNuevo);
             this.Controls.Add(this.btnEvaluarEdad);
             this.Controls.Add(this.dtpFechaNac);
             this.Controls.Add(this.lbl);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmPersona";
+            this.Text = "Persona";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -115,7 +103,6 @@
         private System.Windows.Forms.Label lbl;
         private System.Windows.Forms.DateTimePicker dtpFechaNac;
         private System.Windows.Forms.Button btnEvaluarEdad;
-        private System.Windows.Forms.Button btnNuevo;
         private System.Windows.Forms.Button btnSalir;
         private System.Windows.Forms.Label lblMayorEdad;
     }

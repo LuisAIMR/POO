@@ -113,6 +113,7 @@
             this.Controls.Add(this.lblGrados);
             this.Name = "frmTemperatura";
             this.Text = "Temperatura";
+            this.Load += new System.EventHandler(this.frmTemperatura_Load);
             ((System.ComponentModel.ISupportInitialize)(this.error1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

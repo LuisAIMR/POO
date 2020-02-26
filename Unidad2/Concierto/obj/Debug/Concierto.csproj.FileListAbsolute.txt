@@ -7,3 +7,6 @@ c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\obj
 c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.exe
 c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.pdb
 C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.frmAsistentes.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Concierto\bin\Debug\Concierto.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Concierto\obj\Debug\Concierto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Concierto\obj\Debug\Concierto.pdb

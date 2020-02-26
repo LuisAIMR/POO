@@ -49,5 +49,13 @@ namespace Recibo
         {
 
         }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            txtIntCanWatts.Text = "";
+            lblResultadoPagar.Text = "";
+            lblRestuladoTipo.Text = "";
+
+        }
     }
 }

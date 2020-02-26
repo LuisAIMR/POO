@@ -114,6 +114,7 @@
             this.Controls.Add(this.lblTipoVehiculo);
             this.Name = "frmVehiculo";
             this.Text = "Caseta de cobro";
+            this.Load += new System.EventHandler(this.frmVehiculo_Load);
             ((System.ComponentModel.ISupportInitialize)(this.error1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
