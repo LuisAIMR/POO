@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Embotelladora
+namespace Recibo
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Embotelladora
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmEmbotelladora());
+            Application.Run(new Form1());
         }
     }
 }

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Embotelladora.Properties
+namespace Recibo.Properties
 {
 
 
