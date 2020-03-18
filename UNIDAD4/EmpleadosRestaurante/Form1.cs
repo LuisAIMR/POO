@@ -259,7 +259,7 @@ namespace EmpleadosRestaurante
             objRepartidor.ZonaDeReparto = int.Parse(cmbZona.Text);
             objRepartidor.PedidosRealizados = int.Parse(txtPedidosRealizados.Text);
             objRepartidor.CalcularSueldo();
-            MessageBox.Show("El sueldo de "+objRepartidor.Nombre+" es de $"+ objRepartidor.SueldoSemanal,"Sueldo semanal"+objRepartidor.FechadeNacimientos, MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("El sueldo de "+objRepartidor.Nombre+" es de $"+ objRepartidor.SueldoSemanal,"Sueldo semanal", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void Form1_Load(object sender, EventArgs e)
