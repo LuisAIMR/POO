@@ -1,0 +1,9 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.frmEmpleados.resources

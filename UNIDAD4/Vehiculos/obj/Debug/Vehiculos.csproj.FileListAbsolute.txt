@@ -1,0 +1,9 @@
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\bin\Debug\Vehiculos.exe.config
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\bin\Debug\Vehiculos.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\bin\Debug\Vehiculos.pdb
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.csprojResolveAssemblyReference.cache
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.frmVehiculo.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.Properties.Resources.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.csproj.GenerateResource.Cache
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.pdb
