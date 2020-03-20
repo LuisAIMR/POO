@@ -1,0 +1,9 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\bin\Debug\InterfacesEjercicio1.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\bin\Debug\InterfacesEjercicio1.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\bin\Debug\InterfacesEjercicio1.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.frmUnidadesMedida.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\InterfacesEjercicio1\obj\Debug\InterfacesEjercicio1.pdb
