@@ -1,0 +1,10 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\bin\Debug\JuegoPiedraPapelyTijeras.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\obj\Debug\JuegoPiedraPapelyTijeras.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\obj\Debug\JuegoPiedraPapelyTijeras.frmJuego.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\obj\Debug\JuegoPiedraPapelyTijeras.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\obj\Debug\JuegoPiedraPapelyTijeras.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\bin\Debug\JuegoPiedraPapelyTijeras.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\bin\Debug\JuegoPiedraPapelyTijeras.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\obj\Debug\JuegoPiedraPapelyTijeras.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\obj\Debug\JuegoPiedraPapelyTijeras.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\JuegoPiedraPapelyTijeras\obj\Debug\JuegoPiedraPapelyTijeras.frmMenu.resources
