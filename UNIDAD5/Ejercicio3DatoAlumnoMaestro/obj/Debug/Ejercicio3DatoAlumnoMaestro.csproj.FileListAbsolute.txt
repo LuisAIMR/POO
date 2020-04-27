@@ -1,0 +1,13 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\bin\Debug\Ejercicio3DatoAlumnoMaestro.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\bin\Debug\Ejercicio3DatoAlumnoMaestro.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\bin\Debug\Ejercicio3DatoAlumnoMaestro.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.frmDatoMaestro.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.frmDatoAlumno.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.frmMateriasDelAlumno.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio3DatoAlumnoMaestro\obj\Debug\Ejercicio3DatoAlumnoMaestro.frmMateriasImpartidasMestro.resources
