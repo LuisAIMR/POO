@@ -1,0 +1,6 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional1\bin\Debug\Bidimensional1.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional1\bin\Debug\Bidimensional1.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional1\bin\Debug\Bidimensional1.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional1\obj\Debug\Bidimensional1.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional1\obj\Debug\Bidimensional1.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Bidimensional1\obj\Debug\Bidimensional1.pdb
