@@ -57,13 +57,13 @@ namespace Bidimensional2
 
         private void btnSuma_Click(object sender, EventArgs e)
         {
-            for (i = 0; i < col;i++) 
+            for (i = 0; i < fil;i++) 
             {
                 acumC += "\r\n\n";
                 for (j=0;j< col;j++)
                 {
                     arrayC[i, j] = arrayA[i, j] + arrayB[i, j];
-                    acumC = arrayC[i,j]+ " \n";
+                    acumC += arrayC[i,j]+ " \n";
                     txtC.Text = acumC;
                 }
             }
@@ -82,26 +82,26 @@ namespace Bidimensional2
         private void btnResta_Click(object sender, EventArgs e)
         {
 
-            for (i = 0; i < col; i++)
+            for (i = 0; i < fil; i++)
             {
                 acumC += "\r\n\n";
                 for (j = 0; j < col; j++)
                 {
                     arrayC[i, j] = arrayA[i, j] - arrayB[i, j];
-                    acumC = arrayC[i, j] + " \n";
+                    acumC += arrayC[i, j] + " \n";
                     txtC.Text = acumC;
                 }
             }
         }
         private void button5_Click(object sender, EventArgs e)
         {
-            for (i = 0; i < col; i++)
+            for (i = 0; i < fil; i++)
             {
                 acumC += "\r\n\n";
                 for (j = 0; j < col; j++)
                 {
                     arrayC[i, j] = arrayA[i, j] * arrayB[i, j];
-                    acumC = arrayC[i, j] + " \n";
+                    acumC += arrayC[i, j] + " \n";
                     txtC.Text = acumC;
                 }
             }
@@ -114,7 +114,7 @@ namespace Bidimensional2
                 for (j = 0; j < col; j++)
                 {
                     arrayC[i, j] = arrayA[i, j] / arrayB[i, j];
-                    acumC = arrayC[i, j] + " \n";
+                    acumC += arrayC[i, j] + " \n";
                     txtC.Text = acumC;
                 }
             }
