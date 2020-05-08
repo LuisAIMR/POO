@@ -45,6 +45,12 @@
             this.rtbSumaDiagonal = new System.Windows.Forms.RichTextBox();
             this.lblSumaDiagonal = new System.Windows.Forms.Label();
             this.btnSalir = new System.Windows.Forms.Button();
+            this.lblResSumCol = new System.Windows.Forms.Label();
+            this.rtbResSumcol = new System.Windows.Forms.RichTextBox();
+            this.btnSumSumcolumnas = new System.Windows.Forms.Button();
+            this.lblResSumFil = new System.Windows.Forms.Label();
+            this.rtbResSumFil = new System.Windows.Forms.RichTextBox();
+            this.btnSumSumFilas = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.nudTamanoMatriz)).BeginInit();
             this.SuspendLayout();
             // 
@@ -138,7 +144,7 @@
             // 
             this.btnElementosDiagonal.Location = new System.Drawing.Point(428, 155);
             this.btnElementosDiagonal.Name = "btnElementosDiagonal";
-            this.btnElementosDiagonal.Size = new System.Drawing.Size(75, 51);
+            this.btnElementosDiagonal.Size = new System.Drawing.Size(85, 51);
             this.btnElementosDiagonal.TabIndex = 13;
             this.btnElementosDiagonal.Text = "Elementos de la diagonal";
             this.btnElementosDiagonal.UseVisualStyleBackColor = true;
@@ -166,11 +172,11 @@
             // 
             // btnSumaDiagonales
             // 
-            this.btnSumaDiagonales.Location = new System.Drawing.Point(428, 231);
+            this.btnSumaDiagonales.Location = new System.Drawing.Point(428, 212);
             this.btnSumaDiagonales.Name = "btnSumaDiagonales";
-            this.btnSumaDiagonales.Size = new System.Drawing.Size(75, 35);
+            this.btnSumaDiagonales.Size = new System.Drawing.Size(85, 54);
             this.btnSumaDiagonales.TabIndex = 16;
-            this.btnSumaDiagonales.Text = "Suma Diagonales";
+            this.btnSumaDiagonales.Text = "Suma elementos de la Diagonal";
             this.btnSumaDiagonales.UseVisualStyleBackColor = true;
             this.btnSumaDiagonales.Click += new System.EventHandler(this.btnSumaDiagonales_Click);
             // 
@@ -193,7 +199,7 @@
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(557, 243);
+            this.btnSalir.Location = new System.Drawing.Point(566, 337);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(75, 23);
             this.btnSalir.TabIndex = 19;
@@ -201,11 +207,71 @@
             this.btnSalir.UseVisualStyleBackColor = true;
             this.btnSalir.Click += new System.EventHandler(this.button1_Click);
             // 
+            // lblResSumCol
+            // 
+            this.lblResSumCol.AutoSize = true;
+            this.lblResSumCol.Location = new System.Drawing.Point(69, 286);
+            this.lblResSumCol.Name = "lblResSumCol";
+            this.lblResSumCol.Size = new System.Drawing.Size(247, 13);
+            this.lblResSumCol.TabIndex = 22;
+            this.lblResSumCol.Text = "Suma del resultado de las sumas de las Columnas :";
+            // 
+            // rtbResSumcol
+            // 
+            this.rtbResSumcol.Location = new System.Drawing.Point(322, 283);
+            this.rtbResSumcol.Name = "rtbResSumcol";
+            this.rtbResSumcol.Size = new System.Drawing.Size(100, 23);
+            this.rtbResSumcol.TabIndex = 21;
+            this.rtbResSumcol.Text = "";
+            // 
+            // btnSumSumcolumnas
+            // 
+            this.btnSumSumcolumnas.Location = new System.Drawing.Point(428, 275);
+            this.btnSumSumcolumnas.Name = "btnSumSumcolumnas";
+            this.btnSumSumcolumnas.Size = new System.Drawing.Size(85, 35);
+            this.btnSumSumcolumnas.TabIndex = 20;
+            this.btnSumSumcolumnas.Text = "Suma de suma Columnas";
+            this.btnSumSumcolumnas.UseVisualStyleBackColor = true;
+            this.btnSumSumcolumnas.Click += new System.EventHandler(this.btnSumSumcolumnas_Click);
+            // 
+            // lblResSumFil
+            // 
+            this.lblResSumFil.AutoSize = true;
+            this.lblResSumFil.Location = new System.Drawing.Point(101, 332);
+            this.lblResSumFil.Name = "lblResSumFil";
+            this.lblResSumFil.Size = new System.Drawing.Size(219, 13);
+            this.lblResSumFil.TabIndex = 25;
+            this.lblResSumFil.Text = "Suma del resultado de las sumas de las filas :";
+            // 
+            // rtbResSumFil
+            // 
+            this.rtbResSumFil.Location = new System.Drawing.Point(322, 326);
+            this.rtbResSumFil.Name = "rtbResSumFil";
+            this.rtbResSumFil.Size = new System.Drawing.Size(100, 23);
+            this.rtbResSumFil.TabIndex = 24;
+            this.rtbResSumFil.Text = "";
+            // 
+            // btnSumSumFilas
+            // 
+            this.btnSumSumFilas.Location = new System.Drawing.Point(428, 321);
+            this.btnSumSumFilas.Name = "btnSumSumFilas";
+            this.btnSumSumFilas.Size = new System.Drawing.Size(85, 35);
+            this.btnSumSumFilas.TabIndex = 23;
+            this.btnSumSumFilas.Text = "Suma de suma Filas";
+            this.btnSumSumFilas.UseVisualStyleBackColor = true;
+            this.btnSumSumFilas.Click += new System.EventHandler(this.btnSumSumFilas_Click);
+            // 
             // frmMatrizSumaFCD
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(644, 278);
+            this.ClientSize = new System.Drawing.Size(666, 372);
+            this.Controls.Add(this.lblResSumFil);
+            this.Controls.Add(this.rtbResSumFil);
+            this.Controls.Add(this.btnSumSumFilas);
+            this.Controls.Add(this.lblResSumCol);
+            this.Controls.Add(this.rtbResSumcol);
+            this.Controls.Add(this.btnSumSumcolumnas);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.lblSumaDiagonal);
             this.Controls.Add(this.rtbSumaDiagonal);
@@ -251,6 +317,12 @@
         private System.Windows.Forms.RichTextBox rtbSumaDiagonal;
         private System.Windows.Forms.Label lblSumaDiagonal;
         private System.Windows.Forms.Button btnSalir;
+        private System.Windows.Forms.Label lblResSumCol;
+        private System.Windows.Forms.RichTextBox rtbResSumcol;
+        private System.Windows.Forms.Button btnSumSumcolumnas;
+        private System.Windows.Forms.Label lblResSumFil;
+        private System.Windows.Forms.RichTextBox rtbResSumFil;
+        private System.Windows.Forms.Button btnSumSumFilas;
     }
 }
 

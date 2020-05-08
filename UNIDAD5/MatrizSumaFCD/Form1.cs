@@ -27,6 +27,9 @@ namespace MatrizSumaFCD
             btnSumaDiagonales.Enabled = false;
             btnSumaFilas.Enabled = false;
             btnElementosDiagonal.Enabled = false;
+            btnSumSumcolumnas.Enabled = false;
+            btnSumSumFilas.Enabled = false;
+            btnSumaDiagonales.Enabled = false;
         }
 
         private void richTextBox2_TextChanged(object sender, EventArgs e)
@@ -95,6 +98,7 @@ namespace MatrizSumaFCD
                 rtbSumaFilas.Text = AcumF;
             }
             btnSumaFilas.Enabled = false;
+            btnSumSumFilas.Enabled = true;
         }
 
         private void btnSumaColumnas_Click(object sender, EventArgs e)
@@ -107,6 +111,7 @@ namespace MatrizSumaFCD
                 rtbSumaColumnas.Text = AcumC;
             }
             btnSumaColumnas.Enabled = false;
+            btnSumSumcolumnas.Enabled = true;
         }
 
         private void btnSumaDiagonales_Click(object sender, EventArgs e)
@@ -118,6 +123,18 @@ namespace MatrizSumaFCD
         private void button1_Click(object sender, EventArgs e)
         {
             Application.Exit(); 
+        }
+
+        private void btnSumSumcolumnas_Click(object sender, EventArgs e)
+        {
+            rtbResSumcol.Text = ObjMatrizFCD.MSumaDeSumaColumnas();
+            btnSumSumcolumnas.Enabled = false;
+        }
+
+        private void btnSumSumFilas_Click(object sender, EventArgs e)
+        {
+            rtbResSumFil.Text = ObjMatrizFCD.MSumaDeSumaFilas();
+            btnSumSumFilas.Enabled = false;
         }
     }
 }

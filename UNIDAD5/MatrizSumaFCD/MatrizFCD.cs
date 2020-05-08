@@ -89,6 +89,32 @@ namespace MatrizSumaFCD
 
         }
        
+        public string MSumaDeSumaColumnas ()
+        {
+            string SumColumnas = "";
+            int Acum = 0;
+            int Suma = 0;
+            for (int i = 0; i < SumaColumnas.Length; i++)
+            {
+                Suma = Convert.ToInt32(SumaColumnas[i]);
+                Acum += Suma;
+            }
+            SumColumnas = Convert.ToString(Acum);
+            return SumColumnas;
+        }
+        public string MSumaDeSumaFilas()
+        {
+            string SumFilas = "";
+            int Acum = 0;
+            int Suma =0;
+            for(int i=0;i<SumaFilas.Length;i++)
+            {
+                Suma = Convert.ToInt32(SumaFilas[i]);
+                Acum += Suma;
+            }
+            SumFilas = Convert.ToString( Acum);
+            return SumFilas;
+        }
 
     }
 }
