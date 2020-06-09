@@ -1,0 +1,7 @@
+Nombre del pais: Mexico
+Total de la poblacion del pais: 6727322
+Idioma predominante del pais: Español
+Los 3 colores principales de la bandera del pais
+Primer color: Verde
+Segundo color: Blanco
+Tercer color: Rojo

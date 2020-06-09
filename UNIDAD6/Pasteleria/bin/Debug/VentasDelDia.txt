@@ -1,0 +1,5 @@
+
+Venta numero [1]:14 Unidades del producto.
+ La cantidad de dinero que debe pagar es : $112
+Venta numero [2]:54 Unidades del producto.
+ La cantidad de dinero que debe pagar es : $648

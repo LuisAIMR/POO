@@ -1,0 +1,27 @@
+Pais numero [1] 
+Nombre del pais:Mexico
+Total de la poblacion: 435362
+Idioma predominante: Español
+Los tres colores principales de la bandera del pais
+Primer color: verde
+Segundo color: blanco
+Tercer color: rojo
+
+Pais numero [2] 
+Nombre del pais:Brasil
+Total de la poblacion: 759294
+Idioma predominante: Portugues
+Los tres colores principales de la bandera del pais
+Primer color: verde
+Segundo color: azul
+Tercer color: amarillo
+
+Pais numero [3] 
+Nombre del pais:Inglaterra
+Total de la poblacion: 987654
+Idioma predominante: Ingles
+Los tres colores principales de la bandera del pais
+Primer color: azul
+Segundo color: rojo
+Tercer color: blanco
+

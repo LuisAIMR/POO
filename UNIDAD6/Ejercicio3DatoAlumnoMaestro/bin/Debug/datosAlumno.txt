@@ -1,0 +1,15 @@
+Nombre del Alumno: Luis Meza
+Fecha de nacimineto: 08/06/2001 09:01:16 a. m.
+Curp: MERL011028HNTZSSA6
+Telefono: 3112264185
+E-mail: luis54@gmail.com
+
+Materia numero [1]
+Nombre de la materia: Español
+Calificacion de la materia: 87
+Materia numero [2]
+Nombre de la materia: Matematicas 
+Calificacion de la materia: 98
+Materia numero [3]
+Nombre de la materia: Etica
+Calificacion de la materia: 87

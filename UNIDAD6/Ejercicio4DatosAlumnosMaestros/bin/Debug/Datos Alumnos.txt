@@ -1,0 +1,20 @@
+
+Nombre del alumno: luis meza
+Fecha de nacimiento: 08/06/1990 01:21:02 p. m.
+Curp: MERL011028HNTZSSA6
+Telefono: 3112257632
+E-mail: hjka@gmail.com
+Numero de control: 191140008
+Carrera: ITIC
+Materia: español
+Calificacion: 97
+
+Nombre del alumno: Bruno Meza
+Fecha de nacimiento: 04/08/1990 01:21:02 p. m.
+Curp: MEZB122111HNTZSSA6
+Telefono: 4337632321
+E-mail: brn76@gmail.com
+Numero de control: 652360001
+Carrera: ITIC
+Materia: español
+Calificacion: 78

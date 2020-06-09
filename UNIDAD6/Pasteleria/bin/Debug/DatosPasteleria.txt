@@ -1,0 +1,8 @@
+
+Nombre del postre numero [1]: pan
+Precio del postre numero [1]: 12
+Cantidad del postre numero [1]: 65
+
+Nombre del postre numero [2]: flan
+Precio del postre numero [2]: 8
+Cantidad del postre numero [2]: 74

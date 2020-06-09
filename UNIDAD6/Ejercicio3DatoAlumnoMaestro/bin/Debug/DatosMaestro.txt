@@ -1,0 +1,12 @@
+Nombre del maestro: jose bernal
+Fecha de nacimiento: 08/06/1988 10:20:25 a. m.
+Curp: GDNS121109HNTZSSA6
+Telefono: 3112264185
+E-mail: HFD75@gmail.com
+
+Materia numero [1]
+Nombre de la materia: Español
+Materia numero [2]
+Nombre de la materia: Matematicas
+Materia numero [3]
+Nombre de la materia: Etica

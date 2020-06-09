@@ -1,0 +1,10 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejemplo1Propuesto\obj\Debug\Ejemplo1Propuesto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejemplo1Propuesto\obj\Debug\Ejemplo1Propuesto.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD6\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD6\Ejemplo1Propuesto\obj\Debug\Ejemplo1Propuesto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD6\Ejemplo1Propuesto\obj\Debug\Ejemplo1Propuesto.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD6\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD6\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.pdb

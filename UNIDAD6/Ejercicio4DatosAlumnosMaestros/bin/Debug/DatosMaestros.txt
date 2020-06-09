@@ -1,0 +1,18 @@
+
+Nombre del maestro: 
+Fecha de nacimiento: 08/06/1990 01:49:05 p. m.
+Curp: MEZB121111HNTZSSA6
+Telefono: 3217658789
+E-mail: jun43@gmail.com
+Numero de maestro: 238970001
+Sueldo: 6000
+Materia que imparte: Español
+
+Nombre del maestro: Jose Rodriguez
+Fecha de nacimiento: 08/06/1990 01:49:05 p. m.
+Curp: RODJ121111HNTZSSA6
+Telefono: 3212235476
+E-mail: roys43@gmail.com
+Numero de maestro: 238970002
+Sueldo: 8000
+Materia que imparte: matematicas

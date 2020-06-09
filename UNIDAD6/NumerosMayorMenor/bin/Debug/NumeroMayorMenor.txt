@@ -1,0 +1,2 @@
+El numero mayor es: 7
+El numero Menor es: 2

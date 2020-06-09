@@ -1,0 +1,24 @@
+ID: 1010
+Nombres: Marcelo
+Apellidos: Guzman
+Correo: MarceloKiller@gmail.com
+Fecha de nacimiento: 23/05/1990 12:00:00 a. m.
+Salario: 4567887654
+ID: 2020
+Nombres: Rodrigo
+Apellidos: Uzumaki
+Correo: UzumaRod32@gmail.com
+Fecha de nacimiento: 15/06/1984 12:00:00 a. m.
+Salario: 34343443221
+ID: 3212
+Nombres: luis
+Apellidos: Meza
+Correo: jde54@gmail.com
+Fecha de nacimiento: 08/06/1990 02:59:19 p. m.
+Salario: 6000
+ID: 7532
+Nombres: Diana 
+Apellidos: Rodriguez
+Correo: rds43@gmail.com
+Fecha de nacimiento: 08/03/1990 02:59:19 p. m.
+Salario: 12000
