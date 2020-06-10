@@ -1,0 +1,11 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\bin\Debug\ArchMaestrosyAlumnos.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\bin\Debug\ArchMaestrosyAlumnos.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\bin\Debug\ArchMaestrosyAlumnos.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\obj\Debug\ArchMaestrosyAlumnos.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\obj\Debug\ArchMaestrosyAlumnos.DatosAlumnos.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\obj\Debug\ArchMaestrosyAlumnos.DatosMaestros.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\obj\Debug\ArchMaestrosyAlumnos.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\obj\Debug\ArchMaestrosyAlumnos.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\obj\Debug\ArchMaestrosyAlumnos.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\obj\Debug\ArchMaestrosyAlumnos.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMaestrosyAlumnos\obj\Debug\ArchMaestrosyAlumnos.pdb

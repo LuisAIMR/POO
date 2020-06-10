@@ -1,0 +1,18 @@
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\bin\Debug\CalificacionGrupal.exe.config
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\bin\Debug\CalificacionGrupal.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\bin\Debug\CalificacionGrupal.pdb
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.csprojResolveAssemblyReference.cache
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.Properties.Resources.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.csproj.GenerateResource.Cache
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.pdb
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.frmCalificaciones.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\bin\Debug\CalificacionGrupal.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\bin\Debug\CalificacionGrupal.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\bin\Debug\CalificacionGrupal.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\obj\Debug\CalificacionGrupal.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\obj\Debug\CalificacionGrupal.frmCalificaciones.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\obj\Debug\CalificacionGrupal.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\obj\Debug\CalificacionGrupal.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\obj\Debug\CalificacionGrupal.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\CalificacionGrupal\obj\Debug\CalificacionGrupal.pdb

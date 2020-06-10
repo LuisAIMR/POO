@@ -1,0 +1,9 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\bin\Debug\ArchNpaises.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\bin\Debug\ArchNpaises.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\bin\Debug\ArchNpaises.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\obj\Debug\ArchNpaises.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\obj\Debug\ArchNpaises.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\obj\Debug\ArchNpaises.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\obj\Debug\ArchNpaises.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\obj\Debug\ArchNpaises.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNpaises\obj\Debug\ArchNpaises.pdb

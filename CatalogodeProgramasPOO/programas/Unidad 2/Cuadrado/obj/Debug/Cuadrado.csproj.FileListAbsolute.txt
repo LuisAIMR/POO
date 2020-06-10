@@ -1,0 +1,16 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Cuadrado\obj\Debug\Cuadrado.frmCuadrado.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Cuadrado\obj\Debug\Cuadrado.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Cuadrado\obj\Debug\Cuadrado.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Cuadrado\obj\Debug\Cuadrado.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Cuadrado\bin\Debug\Cuadrado.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Cuadrado\bin\Debug\Cuadrado.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Cuadrado\bin\Debug\Cuadrado.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Cuadrado\obj\Debug\Cuadrado.frmCuadrado.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Cuadrado\obj\Debug\Cuadrado.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Cuadrado\obj\Debug\Cuadrado.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Cuadrado\obj\Debug\Cuadrado.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Cuadrado\obj\Debug\Cuadrado.pdb

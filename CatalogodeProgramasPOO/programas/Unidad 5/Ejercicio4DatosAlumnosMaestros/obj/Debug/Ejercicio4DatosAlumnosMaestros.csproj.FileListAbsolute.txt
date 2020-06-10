@@ -1,0 +1,22 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\bin\Debug\Ejercicio4DatosAlumnosMaestros.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\bin\Debug\Ejercicio4DatosAlumnosMaestros.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\bin\Debug\Ejercicio4DatosAlumnosMaestros.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.DatosAlumnos.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.DatosMaestros.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\bin\Debug\Ejercicio4DatosAlumnosMaestros.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\bin\Debug\Ejercicio4DatosAlumnosMaestros.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\bin\Debug\Ejercicio4DatosAlumnosMaestros.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.DatosAlumnos.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.DatosMaestros.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Ejercicio4DatosAlumnosMaestros\obj\Debug\Ejercicio4DatosAlumnosMaestros.pdb

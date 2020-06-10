@@ -1,0 +1,24 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\bin\Debug\FigurasGeometricas2.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.FrmFigurasGeo.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.frmCirculo.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.frmCuadrado.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.frmTriangulo.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\bin\Debug\FigurasGeometricas2.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\bin\Debug\FigurasGeometricas2.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\bin\Debug\FigurasGeometricas2.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\bin\Debug\FigurasGeometricas2.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\bin\Debug\FigurasGeometricas2.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.FrmFigurasGeo.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.frmCirculo.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.frmCuadrado.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.frmTriangulo.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 4\FigurasGeometricas2\obj\Debug\FigurasGeometricas2.pdb

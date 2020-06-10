@@ -1,0 +1,21 @@
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\bin\Debug\Concierto.exe.config
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\bin\Debug\Concierto.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\bin\Debug\Concierto.pdb
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.csprojResolveAssemblyReference.cache
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.Properties.Resources.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.csproj.GenerateResource.Cache
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2POO\Concierto\obj\Debug\Concierto.frmAsistentes.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Concierto\bin\Debug\Concierto.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Concierto\obj\Debug\Concierto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Concierto\obj\Debug\Concierto.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\bin\Debug\Concierto.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\bin\Debug\Concierto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\bin\Debug\Concierto.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\obj\Debug\Concierto.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\obj\Debug\Concierto.frmAsistentes.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\obj\Debug\Concierto.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\obj\Debug\Concierto.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\obj\Debug\Concierto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Concierto\obj\Debug\Concierto.pdb

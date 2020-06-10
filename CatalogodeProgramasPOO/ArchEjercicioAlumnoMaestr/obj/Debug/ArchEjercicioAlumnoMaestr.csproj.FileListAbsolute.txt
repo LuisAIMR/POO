@@ -1,0 +1,12 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\bin\Debug\ArchEjercicioAlumnoMaestr.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\bin\Debug\ArchEjercicioAlumnoMaestr.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\bin\Debug\ArchEjercicioAlumnoMaestr.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.DatoAlumno.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.DatoMestro.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.frmMateriasAlumno.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.frmMateriasImpartidasMaestro.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjercicioAlumnoMaestr\obj\Debug\ArchEjercicioAlumnoMaestr.pdb

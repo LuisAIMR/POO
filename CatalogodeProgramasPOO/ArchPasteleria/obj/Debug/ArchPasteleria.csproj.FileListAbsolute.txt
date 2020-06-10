@@ -1,0 +1,9 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\bin\Debug\ArchPasteleria.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\bin\Debug\ArchPasteleria.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\bin\Debug\ArchPasteleria.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\obj\Debug\ArchPasteleria.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\obj\Debug\ArchPasteleria.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\obj\Debug\ArchPasteleria.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\obj\Debug\ArchPasteleria.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\obj\Debug\ArchPasteleria.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchPasteleria\obj\Debug\ArchPasteleria.pdb

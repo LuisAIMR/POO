@@ -1,0 +1,9 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\bin\Debug\ArchMatrizFCD.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\bin\Debug\ArchMatrizFCD.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\bin\Debug\ArchMatrizFCD.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\obj\Debug\ArchMatrizFCD.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\obj\Debug\ArchMatrizFCD.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\obj\Debug\ArchMatrizFCD.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\obj\Debug\ArchMatrizFCD.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\obj\Debug\ArchMatrizFCD.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMatrizFCD\obj\Debug\ArchMatrizFCD.pdb

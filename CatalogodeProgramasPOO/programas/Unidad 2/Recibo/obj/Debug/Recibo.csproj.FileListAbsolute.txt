@@ -1,0 +1,18 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\bin\Debug\Recibo.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\bin\Debug\Recibo.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\bin\Debug\Recibo.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\obj\Debug\Recibo.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\obj\Debug\Recibo.frmRecibo.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\obj\Debug\Recibo.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\obj\Debug\Recibo.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\obj\Debug\Recibo.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Recibo\obj\Debug\Recibo.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\bin\Debug\Recibo.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\bin\Debug\Recibo.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\bin\Debug\Recibo.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\obj\Debug\Recibo.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\obj\Debug\Recibo.frmRecibo.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\obj\Debug\Recibo.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\obj\Debug\Recibo.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\obj\Debug\Recibo.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Recibo\obj\Debug\Recibo.pdb

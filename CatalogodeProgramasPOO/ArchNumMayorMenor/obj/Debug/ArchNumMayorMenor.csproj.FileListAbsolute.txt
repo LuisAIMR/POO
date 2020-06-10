@@ -1,0 +1,9 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\bin\Debug\ArchNumMayorMenor.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\bin\Debug\ArchNumMayorMenor.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\bin\Debug\ArchNumMayorMenor.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\obj\Debug\ArchNumMayorMenor.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\obj\Debug\ArchNumMayorMenor.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\obj\Debug\ArchNumMayorMenor.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\obj\Debug\ArchNumMayorMenor.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\obj\Debug\ArchNumMayorMenor.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchNumMayorMenor\obj\Debug\ArchNumMayorMenor.pdb

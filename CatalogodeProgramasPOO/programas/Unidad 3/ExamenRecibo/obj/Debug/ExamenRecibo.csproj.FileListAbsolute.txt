@@ -1,0 +1,9 @@
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\bin\Debug\ExamenRecibo.exe.config
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\bin\Debug\ExamenRecibo.exe
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\bin\Debug\ExamenRecibo.pdb
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\obj\Debug\ExamenRecibo.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\obj\Debug\ExamenRecibo.Form1.resources
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\obj\Debug\ExamenRecibo.Properties.Resources.resources
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\obj\Debug\ExamenRecibo.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\obj\Debug\ExamenRecibo.exe
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ExamenRecibo\obj\Debug\ExamenRecibo.pdb

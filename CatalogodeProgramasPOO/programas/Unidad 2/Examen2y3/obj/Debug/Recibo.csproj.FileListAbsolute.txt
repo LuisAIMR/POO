@@ -1,0 +1,9 @@
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\bin\Debug\Recibo.exe.config
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\bin\Debug\Recibo.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\bin\Debug\Recibo.pdb
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\obj\Debug\Recibo.csprojResolveAssemblyReference.cache
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\obj\Debug\Recibo.Form1.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\obj\Debug\Recibo.Properties.Resources.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\obj\Debug\Recibo.csproj.GenerateResource.Cache
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\obj\Debug\Recibo.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\Examen2y3\Recibo\obj\Debug\Recibo.pdb

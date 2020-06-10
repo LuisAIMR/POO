@@ -1,0 +1,10 @@
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\bin\Debug\ArchBidimensional2.exe.config
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\bin\Debug\ArchBidimensional2.exe
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\bin\Debug\ArchBidimensional2.pdb
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\obj\Debug\ArchBidimensional2.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\obj\Debug\ArchBidimensional2.Form1.resources
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\obj\Debug\ArchBidimensional2.frmOperaciones.resources
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\obj\Debug\ArchBidimensional2.Properties.Resources.resources
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\obj\Debug\ArchBidimensional2.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\obj\Debug\ArchBidimensional2.exe
+C:\Users\GeRaLsS4\Desktop\Nueva carpeta (3)\ArchBidimensional2\obj\Debug\ArchBidimensional2.pdb

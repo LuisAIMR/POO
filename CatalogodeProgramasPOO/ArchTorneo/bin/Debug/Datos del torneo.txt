@@ -1,0 +1,12 @@
+Nombre del torneo: hola
+Nombre del equipo numero [1]:mesutas
+En el partido [1]
+gano obtuvo: 3 Puntos
+Nombre del equipo numero [2]:cristos
+En el partido [1]
+perdio obtuvo: 0 Puntos
+
+Torneo hola 10/06/2020 07:40:49 a. m.
+¡Felicidades!
+El equipo Ganador es mesutas Con 3 puntos 
+Torneo Concluido

@@ -1,0 +1,5 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ClasesProg101\bin\Debug\ClasesProg101.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ClasesProg101\bin\Debug\ClasesProg101.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ClasesProg101\bin\Debug\ClasesProg101.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ClasesProg101\obj\Debug\ClasesProg101.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ClasesProg101\obj\Debug\ClasesProg101.pdb

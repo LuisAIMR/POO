@@ -1,0 +1,8 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMiPrimeraClase\bin\Debug\ArchMiPrimeraClase.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMiPrimeraClase\bin\Debug\ArchMiPrimeraClase.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMiPrimeraClase\bin\Debug\ArchMiPrimeraClase.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMiPrimeraClase\obj\Debug\ArchMiPrimeraClase.Form1.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMiPrimeraClase\obj\Debug\ArchMiPrimeraClase.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMiPrimeraClase\obj\Debug\ArchMiPrimeraClase.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMiPrimeraClase\obj\Debug\ArchMiPrimeraClase.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchMiPrimeraClase\obj\Debug\ArchMiPrimeraClase.pdb

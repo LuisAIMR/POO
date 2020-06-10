@@ -1,0 +1,19 @@
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.exe
+C:\Users\Jacquilin\Documents\Proyectos POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\GeRaLsS4\Documents\Repositorio\POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\GeRaLsS4\Documents\Repositorio\POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.exe
+C:\Users\GeRaLsS4\Documents\Repositorio\POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\GeRaLsS4\Documents\Repositorio\POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\GeRaLsS4\Documents\Repositorio\POO\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\GeRaLsS4\Documents\Repositorio\POO\MiPrimerSolución\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 1\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 1\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 1\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 1\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 1\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 1\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.pdb

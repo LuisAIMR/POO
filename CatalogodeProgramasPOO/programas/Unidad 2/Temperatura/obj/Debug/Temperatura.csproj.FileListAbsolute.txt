@@ -1,0 +1,18 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\obj\Debug\Temperatura.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\obj\Debug\Temperatura.frmTemperatura.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\obj\Debug\Temperatura.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Temperatura\obj\Debug\Temperatura.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\obj\Debug\Temperatura.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\obj\Debug\Temperatura.frmTemperatura.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\obj\Debug\Temperatura.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Temperatura\obj\Debug\Temperatura.pdb

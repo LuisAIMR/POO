@@ -1,0 +1,18 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\bin\Debug\Pasteleria.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\bin\Debug\Pasteleria.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\bin\Debug\Pasteleria.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\obj\Debug\Pasteleria.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\obj\Debug\Pasteleria.frmPasteleria.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\obj\Debug\Pasteleria.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\obj\Debug\Pasteleria.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\obj\Debug\Pasteleria.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\UNIDAD5\Pasteleria\obj\Debug\Pasteleria.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\bin\Debug\Pasteleria.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\bin\Debug\Pasteleria.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\bin\Debug\Pasteleria.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\obj\Debug\Pasteleria.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\obj\Debug\Pasteleria.frmPasteleria.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\obj\Debug\Pasteleria.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\obj\Debug\Pasteleria.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\obj\Debug\Pasteleria.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 5\Pasteleria\obj\Debug\Pasteleria.pdb

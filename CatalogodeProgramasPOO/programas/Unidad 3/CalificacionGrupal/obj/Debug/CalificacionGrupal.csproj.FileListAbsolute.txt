@@ -1,0 +1,9 @@
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\bin\Debug\CalificacionGrupal.exe.config
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\bin\Debug\CalificacionGrupal.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\bin\Debug\CalificacionGrupal.pdb
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.csprojResolveAssemblyReference.cache
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.Properties.Resources.resources
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.csproj.GenerateResource.Cache
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.exe
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.pdb
+c:\users\geralss4\documents\visual studio 2015\Projects\Unidad2POO\CalificacionGrupal\obj\Debug\CalificacionGrupal.frmCalificaciones.resources

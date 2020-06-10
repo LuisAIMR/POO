@@ -1,0 +1,18 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\bin\Debug\Empleado.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\bin\Debug\Empleado.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\bin\Debug\Empleado.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\obj\Debug\Empleado.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\obj\Debug\Empleado.frmEmpleado.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\obj\Debug\Empleado.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\obj\Debug\Empleado.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\obj\Debug\Empleado.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\Unidad2\Empleado\obj\Debug\Empleado.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\bin\Debug\Empleado.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\bin\Debug\Empleado.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\bin\Debug\Empleado.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\obj\Debug\Empleado.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\obj\Debug\Empleado.frmEmpleado.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\obj\Debug\Empleado.Properties.Resources.resources
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\obj\Debug\Empleado.csproj.GenerateResource.Cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\obj\Debug\Empleado.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\programas\Unidad 2\Empleado\obj\Debug\Empleado.pdb

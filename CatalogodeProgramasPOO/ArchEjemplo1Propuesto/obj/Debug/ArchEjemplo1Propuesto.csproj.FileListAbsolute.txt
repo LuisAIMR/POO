@@ -1,0 +1,6 @@
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjemplo1Propuesto\bin\Debug\ArchEjemplo1Propuesto.exe.config
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjemplo1Propuesto\bin\Debug\ArchEjemplo1Propuesto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjemplo1Propuesto\bin\Debug\ArchEjemplo1Propuesto.pdb
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjemplo1Propuesto\obj\Debug\ArchEjemplo1Propuesto.csprojResolveAssemblyReference.cache
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjemplo1Propuesto\obj\Debug\ArchEjemplo1Propuesto.exe
+C:\Users\GeRaLsS4\Documents\Visual Studio 2015\Projects\CatalogodeProgramasPOO\ArchEjemplo1Propuesto\obj\Debug\ArchEjemplo1Propuesto.pdb
